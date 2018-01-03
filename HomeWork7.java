@@ -13,7 +13,7 @@
  *
  * @author sam.teterkin@gmail.com
  * @version 0.1 | 26.12.17
- * @link
+ * @link https://github.com/SamTeterkin/Java1/blob/master/HomeWork7.java
  */
 public class HomeWork7
 {
